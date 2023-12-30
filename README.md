@@ -59,9 +59,9 @@ After completing work with PostgreSQL, I imported my dataset into Power BI and p
  7.Furthermore, the analysis indicates that the machines in use tend to malfunction after an average period of 27 days.
 8. The chart indicates that the transaction amounts for March and May are closely aligned, with a slight variance of 3.4 million. These two months stand out as having the highest transaction volumes, followed by January and July. Conversely, April, June, February, October, August, December, September, and November represent the months with comparatively lower profitability for the bank. September is the least lucrative, with a transaction amount of 8.5 million, while November follows closely behind with 8.4 million.
 
-![](dashboardstrat.png)
+![](datakliqbankmaint.png)
 
-![](dashboardmaint.png)
+![](datakliqopti.png)
 
 
 ## RECOMMENDATION:
